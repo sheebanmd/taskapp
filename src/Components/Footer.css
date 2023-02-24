@@ -1,0 +1,13 @@
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+    background-color: whitesmoke;
+    padding: 20px;
+  }
+  
+.footer img {
+    height: 50px;
+    margin: 0 10px;
+  }
